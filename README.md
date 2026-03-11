@@ -24,7 +24,7 @@ The dashboard helps track business performance using key metrics such as **Sales
 
 ## Dashboard Preview
 
-![Dashboard](ecommerce-dashboard-preview.png)
+![Dashboard](dashboard.png)
 
 ## Author
 
